@@ -39,7 +39,8 @@ header {
 
 .semana img {
     width: 100%;
-    height: auto;
+    height: 350px; /* Puedes ajustar esta altura como prefieras */
+    object-fit: cover;
     display: block;
 }
 
